@@ -47,3 +47,4 @@ Deploy the dashboard publicly using a suitable platform (e.g., cloud hosting, lo
 Make the dashboard accessible to users by providing a URL or deploying it on a domain.
 By following this step-by-step process, you can extract, transform, and visualize the data from the Phonepe pulse Github repository in an efficient and user-friendly manner. The resulting dashboard will provide valuable insights and information, enhancing the understanding of the repository's metrics and statistics.
 
+Want to see demo video of my project? click here:  https://www.linkedin.com/posts/arunkumards_project-datavisualization-pandas-activity-7079875360670060544-Xfvv?utm_source=share&utm_medium=member_desktop
